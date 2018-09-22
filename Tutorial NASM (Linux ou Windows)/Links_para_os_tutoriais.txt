@@ -1,0 +1,5 @@
+Tutorial NASM no Windows:
+https://disciplinas.dcc.ufba.br/MATA49/InstalacaoWindows
+
+Tutorial NASM no Linux:
+https://disciplinas.dcc.ufba.br/MATA49/InstalacaoLinux32Bits
