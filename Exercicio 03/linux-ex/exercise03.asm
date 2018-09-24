@@ -7,7 +7,6 @@ segment .data   ; Variáveis inicializadas
     msg2 db "Representação em decimal: ", 0
 
 segment .bss     ; Variáveis não inicializadas
-
 segment .text    ; Código do programa
 
         global  asm_main
@@ -37,7 +36,7 @@ asm_main:
         mov eax, msg2      ; Imprime a string "Representação em decimal: "
         call print_string
         mov eax, edx       ; colocando o binario de edx para imprimir em eax
-        call print_int      ; imprime a representação do número em eax 
+        call print_int      ; imprime a representação do número em eax
         call print_nl      ; Imprime uma nova linha
 
 
