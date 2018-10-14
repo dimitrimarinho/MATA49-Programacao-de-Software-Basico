@@ -3,7 +3,8 @@
 ## Semestre 2018.2
 
 
-Professor Mestre Leandro Andrade (doutorando)
+Professor Mestre: Leandro Andrade 
+(doutorando)
 
     http://lattes.cnpq.br/8510686553246645
     http://homes.dcc.ufba.br/~leandrojsa/
