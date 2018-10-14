@@ -18,5 +18,5 @@ Contatos através do e-mail:
 Aulas:
 
     Horário: 16:40 - 18:30  
-    Segunda-feita: Laboratório 143 IME (prática)
+    Segunda-feira: Laboratório 143 IME (prática)
     Quarta-feira: PAF I Sala 214
