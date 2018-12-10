@@ -9,6 +9,7 @@ float ScalarProduct( float* a1, float* a2, int n ) {
       ans += a1[i] * a2[i];
       return( ans );
 }
+
 int main(){
 
       float a1[10], a2[10];

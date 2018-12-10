@@ -31,4 +31,5 @@ int main(){
           ScalarProduct(a1, a2, 10);      	 
 
       return 0;
+
 }
